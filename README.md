@@ -1,4 +1,4 @@
-Compile etme komutları: 
+## Compile etme komutları: 
 
 g++ -g -o exit imgBlurV6.cpp -pthread 
 
@@ -24,7 +24,7 @@ g++ -o exit imgBlurV0.cpp
 
  
 
-Resimleri işleme için hazırlama komutu: 
+## Resimleri işleme için hazırlama komutu: 
 
 ./copyScript.sh  
 
